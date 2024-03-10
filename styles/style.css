@@ -1,0 +1,34 @@
+/* google fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Manrope", sans-serif;
+}
+
+.background1{
+    background-repeat: no-repeat;
+    
+    padding: 4rem;
+    border-radius: 1rem;
+     background-image: linear-gradient(rgba(0, 0, 0, 0.327), rgba(0, 0, 0, 0.5)),
+    url("/assets/Images/2.png");
+}
+.background2{
+    background-repeat: no-repeat;
+    
+    padding: 4rem;
+    border-radius: 1rem;
+     background-image: linear-gradient(rgba(0, 0, 0, 0.327), rgba(0, 0, 0, 0.5)),
+    url("/assets/Images/3.png");
+}
+.background3{
+    background-repeat: no-repeat;
+   
+    padding: 4rem;
+    border-radius: 1rem;
+     background-image: linear-gradient(rgba(0, 0, 0, 0.327), rgba(0, 0, 0, 0.5)),
+    url("/assets/Images/4.png");
+}
